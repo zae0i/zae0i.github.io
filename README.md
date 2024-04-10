@@ -54,3 +54,4 @@
     <h2>인스타그램 아이디</h2>
     <but소(https://github.com/Seung876/Introd.github.io/assets/163658125/3bf6c6b7-0029-42c0-a98f-98a8fc36e16b)
 
+와이어 프레임 첨부: ![KakaoTalk_20240410_215339505](https://github.com/zae0i/zae0i.github.io/assets/163658125/7241fd39-fca1-4afb-ace4-127cc541c2e7)
