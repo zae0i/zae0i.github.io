@@ -56,4 +56,4 @@
 </body>
 
 
-#와이어 프레임 첨부: ![KakaoTalk_20240410_215339505](https://github.com/zae0i/zae0i.github.io/assets/163658125/7241fd39-fca1-4afb-ace4-127cc541c2e7)
+와이어 프레임 첨부: ![KakaoTalk_20240410_215339505](https://github.com/zae0i/zae0i.github.io/assets/163658125/7241fd39-fca1-4afb-ace4-127cc541c2e7)
