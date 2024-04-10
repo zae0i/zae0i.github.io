@@ -53,4 +53,7 @@
     <hr>
     <h2>인스타그램 아이디</h2>
     <button ondblclick="bomb()"> 2Touch</button>
+    <hr>
+    <h2>와이어 프레임 첨부</h2>
+    <img src="[https://builder.hufs.ac.kr/user/iso/k2board/iso1463374352015_b_img.png](https://postfiles.pstatic.net/MjAyNDA0MTBfMjQ1/MDAxNzEyNzU5NjcxODcw.G2U9-UVVFB_o8MrDi8Vu2QOHBBauPjq4Xk08DzERcmsg.agxNzY6e9LlXwwGGpwj6c0tCaUYegQj2e3fNUCJC_9Yg.JPEG/KakaoTalk_20240410_215339505.jpg?type=w966)" alt="실패한 이미지"/>
 </body>
