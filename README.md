@@ -52,7 +52,5 @@
     <script src="script.js"></script>
     <hr>
     <h2>인스타그램 아이디</h2>
-    <button ondblclick="bomb()"> 2Touch</button>
-</body>
-![KakaoTalk_20240410_215339505](https://github.com/Seung876/Introd.github.io/assets/163658125/3bf6c6b7-0029-42c0-a98f-98a8fc36e16b)
+    <but소(https://github.com/Seung876/Introd.github.io/assets/163658125/3bf6c6b7-0029-42c0-a98f-98a8fc36e16b)
 
