@@ -1,5 +1,4 @@
 # zae0i.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -46,4 +45,3 @@
     <script src="script.js"></script>
     <hr>
     <button ondblclick="bomb()"> 절대 더블 클릭하지 마세요</button>
-</body>
