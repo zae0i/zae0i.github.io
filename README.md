@@ -53,5 +53,4 @@
     <hr>
     <h2>인스타그램 아이디</h2>
     <button ondblclick="bomb()"> 2Touch</button>
-    <img src="C:\Users\pjyng\OneDrive\바탕 화면\KakaoTalk_20240410_215339505.jpg" alt="실패한 이미지"/>
 </body>
